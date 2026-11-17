@@ -1,0 +1,7 @@
+I installed Visual Studio Code on my laptop for C programming.
+I installed the C/C++ extension provided by Microsoft.
+I installed the GCC compiler using MSYS2.
+Initially, I faced an issue where Windows could not recognize the GCC command.
+I checked the compiler folder and added its path to the Windows PATH environment variable.
+After restarting the terminal, GCC and G++ displayed their version information.
+Finally, I successfully compiled and executed my first C program, which displayed "Hello, World!".
