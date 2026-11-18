@@ -14,3 +14,6 @@ I am a Computer Science Engineering student interested in learning programming a
 
 ## Contact
 GitHub: [My GitHub Profile](https://github.com/yogeshhrmv-byte)
+## Projects
+
+- **Student Management System:** A web-based application designed to manage student details, academic records, attendance, and other student-related information efficiently.
